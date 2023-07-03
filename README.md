@@ -1,4 +1,5 @@
-# PRISM - Proactive Remote Inspection and Server Management
+# PRISM
+# Proactive Remote Inspection and Server Management
 
 ## Overview
 
@@ -6,10 +7,8 @@ PRISM is a Python script for managing and monitoring server environments. It use
 
 ## Prerequisites
 
-- Python 3.7 or higher
 - Docker and Docker-compose installed
 - Access to the servers via IPMI and iDRAC interfaces
-- IPMI tool installed on the host running PRISM
 - A Discord channel for notifications (you will need to create a webhook)
 
 ## Usage
