@@ -1,4 +1,3 @@
-# PRISM
 # Proactive Remote Inspection and Server Management
 
 ## Overview
